@@ -42,10 +42,9 @@
         background-color: var(--White);
         width: 90%;
         max-width: 700px;
-        margin: 100px auto 0px auto;
+        margin: 100px auto 20px auto;
         border-radius: 10px;
         display: flex;
-        
     }
 
     main > div#imagem {
