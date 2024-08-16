@@ -8,3 +8,9 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
+
+### Acess the page
+
+You can access the page via the link below. / Você pode acessar a página pelo link abaixo.
+
+- https://joaodev134.github.io/product-preview-card-component-main/
